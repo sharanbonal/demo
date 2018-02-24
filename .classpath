@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/spring jar/jdbcjars/org.springframework.beans-sources-3.0.5.RELEASE.jar/org.springframework.beans-sources-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/spring jar/jdbcjars/org.springframework.transaction_3.0.5.RELEASE.jar/org.springframework.transaction_3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/spring jar/jdbcjars/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/spring jar/jdbcjars/spring-aop-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/spring jar/jdbcjars/spring-beans-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/spring jar/jdbcjars/spring-context-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/spring jar/jdbcjars/spring-core-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/spring jar/jdbcjars/spring-dao-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/spring jar/jdbcjars/spring-expression-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/spring jar/jdbcjars/spring-instrument-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/spring jar/jdbcjars/spring-jdbc-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/spring jar/jdbcjars/spring-web-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/spring jar/jdbcjars/spring-webmvc-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
